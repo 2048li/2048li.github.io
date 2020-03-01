@@ -1,10 +1,8 @@
-title: Texture Theme
-author: GitHub User
-email: your-email@domain.com
+title: Shentanli's Blog
+author: shentnali
+email: shentanli@foxmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Shentanli's career information.
 show_excerpts: true # set to true to show excerpts on the homepage
 remote_theme: thelehhman/texture
 theme: texture
@@ -28,6 +26,7 @@ texture:
     twitter: shentanli
     github:  2048li
     linkedIn: in/xiaojuan-li-62521294
+    lofter: https://shentanli.lofter.com/
     rss: rss
  
 
