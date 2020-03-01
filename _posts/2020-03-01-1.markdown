@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "How to be a information security consultant"
+description: If u want to be a IS consultant...
+date:   2020-03-01 15:20 
+categories: IS Consultant Career
+---
+[The original](https://www.cyberdegrees.org/jobs/security-consultant/)
+![CSO](../mysources/cso.png"CSO")
+
+# H1 WHAT IS A SECURITY CONSULTANT?
+
+> A **Security Consultant** is the infosec equivalent of Obi-Wan – advisor, guide and all-round guru. In your role as an expert consultant, you’ll be able to design and implement the best security solutions for an organization’s needs. You’ll talk to stakeholders, draw up budgets, supervise teams, and get stuck into research. You’ll conduct security tests and probe for vulnerabilities. In other words, you’ll put your technical and interpersonal skills to good use. <br><br>
+I think this is an exciting job. Back to five years ago, I felt confused on which road I should go which is releated with security. 
+
