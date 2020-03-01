@@ -36,6 +36,10 @@ texture:
 
 # Build settings
 # theme: texture
+markdown: kramdown
+kramdown:
+    input: GFM
+highlighter: rouge
 
 plugins:
   - jekyll-seo-tag
