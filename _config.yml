@@ -17,7 +17,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: Shentanli
-  tagline: Information Security Developer.
+  tagline: Information Security Consultant.
   date_format: "%b %-d, %Y"
   style: blue
   showNav: false
@@ -25,9 +25,9 @@ texture:
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    twitter: shentanli
+    github:  2048li
+    linkedIn: in/xiaojuan-li
     rss: rss
  
 
