@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "The introduction of ISO 27001"
+description: To know the international standard...
+date:   2020-03-02 11:40 
+categories: ISO standard ISMS
+---
+## WHAT IS ISO 27001
+Before explain the ISO 27001, I'd like to talk about **ISMS**.<br><br>
+ISMS means Information Security Management System, which describes and demonstrates organisation’s approach to Information Security.
+It includes how people, policies, controls and systems identify, then address the opportunities and threats revolving around valuable information and related assets.<br><br>
+Then comes ISO 27001, which is the international standard for an ISMS. <br><br>
+ISO/IEC 27001 is a part of the ISO/IEC 27000 family of standards, of which the last version was published in 2013, 
+with a few minor updates since then. It is published by the International Organization for Standardization (ISO) 
+and the International Electrotechnical Commission (IEC) under the joint ISO and IEC subcommittee, ISO/IEC JTC 1/SC 27.
+
+## THE SPECIFICATION
+It is developed to provide a model for establishing, implementing, operating, monitoring, reviewing, 
+maintaining and improving an information security management system. The specification defines a six-part planning process:<br><br>
+- Define a security policy.
+- Define the scope of the ISMS.
+- Conduct a risk assessment.
+- Manage identified risks.
+- Select control objectives and controls to be implemented.
+- Prepare a statement of applicability.
+
+The specification includes details for documentation, management responsibility, internal audits, continual improvement, 
+and corrective and preventive action.27001:2005 applied the Plan-Do-Check-Act (PDCA) cycle to all the processes in ISMS.<br><br>
+- Plan (establishing the ISMS)
+Establish the policy, the ISMS objectives, processes and procedures related to risk management and the improvement of information security to provide results in line with the global policies and objectives of the organization.
+- Do (implementing and workings of the ISMS)
+Implement and exploit the ISMS policy, controls, processes and procedures.
+- Check (monitoring and review of the ISMS)
+Assess and, if applicable, measure the performances of the processes against the policy, objectives and practical experience and report results to management for review.
+- Act (update and improvement of the ISMS)
+Undertake corrective and preventive actions, on the basis of the results of the ISMS internal audit and management review, or other relevant information to continually improve the said system.
+<br>
+
+**REFERENCE**
+1. [ISO 27001](https://whatis.techtarget.com/definition/ISO-27001).
+2. [itISO](https://www.itgovernance.co.uk/iso27001).
+3. [ISMSonline](https://www.isms.online/information-security-management-system-isms/).
+4. [wikiiso](https://en.wikipedia.org/wiki/ISO/IEC_27001).
