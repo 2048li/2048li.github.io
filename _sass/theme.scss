@@ -3,7 +3,7 @@
 @import 'begin';
 @import 'syntax';
 
-$linkColor: #999;
+$linkColor: #fa6cfb;
 $mobileW: 768px;
 $smallMobileW: 480px;
 $bigScreenW: 1600px;
@@ -180,12 +180,12 @@ header {
 	padding: 0;
 	li {
 		float: left;
-		padding: 10px 20px;
+		padding: 5px 10px;
 		background-color: $lightGray;
 		color: #000;
 		margin: 5px;
 		border-radius: 2px;
-		@include fluidType(15px, 17px);
+		@include fluidType(12px, 15px);
 		&:first-child {
 			margin-left: 0;
 		}

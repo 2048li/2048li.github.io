@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "show_exerpts:"
   Shentanli's career information.
 show_excerpts: true # set to true to show excerpts on the homepage
 remote_theme: thelehhman/texture
-theme: texture
+#theme: texture
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -16,6 +16,7 @@ permalink: /posts/:title/
 texture:
   title: Shentanli
   tagline: Information Security Consultant.
+  #WAIT AND HOPE--All human wisdom is summed up in these two words.
   date_format: "%b %-d, %Y"
   style: blue
   showNav: false
@@ -27,7 +28,6 @@ texture:
     github:  2048li
     linkedIn: in/xiaojuan-li-62521294
     rss: rss
- 
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
@@ -36,10 +36,6 @@ texture:
 
 # Build settings
 # theme: texture
-markdown: kramdown
-kramdown:
-    input: GFM
-highlighter: rouge
 
 plugins:
   - jekyll-seo-tag

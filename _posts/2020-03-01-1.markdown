@@ -5,7 +5,7 @@ description: If u want to be an IS consultant...
 date:   2020-03-01 15:20 
 categories: IS Consultant Career
 ---
-![CSO](2048li.github.io/mysources/cso.png "CSO")
+![CSO](https://imgchr.com/i/3WLkT0 "CSO")
 [The original](https://www.cyberdegrees.org/jobs/security-consultant/)
 
 ## WHAT IS A SECURITY CONSULTANT?
