@@ -10,13 +10,13 @@ categories: IS Consultant Career
 
 ## WHAT IS A SECURITY CONSULTANT?
 
->A **Security Consultant** is the infosec equivalent of Obi-Wan – advisor, guide and all-round guru. In your role as an expert consultant, you’ll be able to design and implement the best security solutions for an organization’s needs. You’ll talk to stakeholders, draw up budgets, supervise teams, and get stuck into research. You’ll conduct security tests and probe for vulnerabilities. In other words, you’ll put your technical and interpersonal skills to good use.
+**Security Consultant** is the infosec equivalent of Obi-Wan – advisor, guide and all-round guru. In your role as an expert consultant, you’ll be able to design and implement the best security solutions for an organization’s needs. You’ll talk to stakeholders, draw up budgets, supervise teams, and get stuck into research. You’ll conduct security tests and probe for vulnerabilities. In other words, you’ll put your technical and interpersonal skills to good use.
 
-I think this is an exciting job. Back to five years ago, I felt confused on which road I should go which is releated with security. After the internship and two years' work experience, I cannot wait to challenge being a security consultant.
+**I think this is an exciting job. Back to five years ago, I felt confused on which road I should go which is releated with security. After the internship and two years' work experience, I cannot wait to challenge being a security consultant.**
 
 ## SECURITY CONSULTANT JOB RESPONSIBILITIES
 
->Each institution will be dealing with unique IT security threats, so your day-to-day tasks can vary greatly. You may be required to: <br><br>
+Each institution will be dealing with unique IT security threats, so your day-to-day tasks can vary greatly. You may be required to: <br><br>
 - Determine the most effective way to protect computers, networks, software, data and information systems against any possible attacks<br>
 - Interview staff and heads of departments to determine specific security issues<br>
 - Perform vulnerability testing, risk analyses and security assessments<br>
@@ -32,7 +32,7 @@ I think this is an exciting job. Back to five years ago, I felt confused on whic
 In a large organization, you will typically collaborate with IT Project Managers and/or a [Security Manager](https://www.cyberdegrees.org/jobs/security-manager/).
 
 ## SECURITY CONSULTANT CAREER PATH
->To become a Security Consultant, you should consider gaining your work experience in intermediate-level security jobs such as:<br><br>
+To become a Security Consultant, you should consider gaining your work experience in intermediate-level security jobs such as:<br><br>
 - [Security Administrator](https://www.cyberdegrees.org/jobs/security-administrator/)<br>
 - [Security Specialist](https://www.cyberdegrees.org/jobs/security-specialist/)<br>
 - [Security Analyst](https://www.cyberdegrees.org/jobs/security-analyst/)<br>
@@ -47,7 +47,7 @@ The highest seniority and pay generally comes with being a:<br><br>
 - [CISO](https://www.cyberdegrees.org/jobs/chief-information-security-officer-ciso/)<br>
 
 ## SECURITY CONSULTANT JOB REQUIREMENTS
->Security consultancy is not for the neophyte. Employers will want to see a bachelor’s or master’s degree in the field, at least 3 years of work experience, and plenty of technical skills in your application. IAPSC membership and relevant certifications will give your résumé some extra shine.<br><br>
+Security consultancy is not for the neophyte. Employers will want to see a bachelor’s or master’s degree in the field, at least 3 years of work experience, and plenty of technical skills in your application. IAPSC membership and relevant certifications will give your résumé some extra shine.<br><br>
 Finally, take a good, hard look at the job description and the reputation of the company. Not all security consultancy jobs are made equal. Some consultancy firms specialize in certain aspects of security (e.g. robust security architectures, auditing, reverse engineering and pen testing, etc.). Others do all kinds of work. And big multinationals may have scores of consultants on their payroll. Reach out to current professionals through networking sites and conferences before you make any decisions. Getting “insider advice” is one of the most effective steps you can take in this arena.<br><br>
 1. Hard Skills<br><br>
 Since the job of a Security Consultant covers the waterfront, technical knowledge is paramount. Here are a variety of hard skills that we’ve found employers requesting:<br><br>
@@ -67,4 +67,4 @@ Since the job of a Security Consultant covers the waterfront, technical knowledg
 It goes without saying that great leadership and negotiation skills are going to be helpful in this job. Companies are also looking for candidates with excellent oral and communication abilities. Talking to clients and working with diverse IT teams requires patience and tact.<br><br>
 Like Security Architects and Security Engineers, Security Consultants are creative builders, complex problem-solvers and savvy analysts. You’ll be dealing with a huge range of variables when you design and assess security systems.
 
-In summary, being an security consultant is challenging. So let's go for it!
+**In summary, being an security consultant is challenging. So let's go for it!**
