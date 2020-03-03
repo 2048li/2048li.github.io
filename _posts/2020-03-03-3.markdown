@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "The sites a security consultant may need..."
+description: To trend the newest sec info...
+date:   2020-03-03 07:32 
+categories: IS sites infosec
+---
+This post introduces some sites that track the newest information, envents, analysis strategy and so on. The security consultants may read these blogs to gain
+information they need for better work.<br><br>
+- [CSO.](https://www.csoonline.com/news/)<br>
+The CSO is the online newspaper of enterprise-level security decision makers. You can find the latest **white papers, webcasts, analysis, 
+case studies**, and **research on security and risk management**.<br><br>
+- [The hacker news.](https://thehackernews.com/)<br>
+This site shows the breaking news about cyber attacks and vulnerabilities, which promoting awareness for security experts and hackers.
+It has four main aspects including **Data breaches**, **Cyber Attacks**, **Vulnerabilities**, and **Malware**. <br><br>
+- [DarkReading.](https://www.darkreading.com/)<br>
+The Darkreading encompasses 13 communities, each of which drills deeper into the enterprise security challenge: 
+**Analytics, Attacks & Breaches, Application Security, Careers and People, Cloud Security, Endpoint,  IoT, Mobile, Operations, Perimeter, Risk, Threat Intelligence, 
+and Vulnerabilities and Threats**. The community members include thought-leading security researchers, CISOs, and technology specialists, 
+along with thousands of other security professionals. You can free to engage in conversations with them if you register on the site.<br><br>
+- [Infosecurity Magazine.](https://www.infosecurity-magazine.com/)<br>
+Infosecurity Magazine has over ten years of experience providing knowledge and insight into the information security industry. It 
+focus on **hot topics** and **trends**, in-depth **news analysis** and opinion columns from industry experts.<br><br>
+- [CIO.](https://www.cio.com/)<br>
+CIO is an online magazine geared toward those in technology and security leadership roles. 
+Its Editorial focus includes content geared to helping C-suite executives confront the cybersecurity challenges faced by their organizations.<br><br>
+- [SecurityWeek.](https://www.securityweek.com/)<br>
+It posts the information security industry Expert **insights** and **analysis** from IT security experts around the world.<br><br>
+- [Cybersecurity Insiders.](https://www.cybersecurity-insiders.com/)<br>
+This site is packed with **news, reports, tools, courses**, and **events** to help you stay on top of an industry 
+that seems to be changing almost daily. You can also find what's the hot and trending through newsletter and list of popular articles.<br><br>
+- [Zero Day.](https://www.zdnet.com/blog/security/)<br>
+It is your source for the latest news and insights in **software** and **hardware security research**, **threats, vulnerabilities, cyberattacks**, 
+and other happenings of interest to the modern information security professional.<br><br>
+- [Krebsonsecurity.](https://krebsonsecurity.com/)<br>
+Brian Krebs is the leading information security reporter out there right now and it is convenient all of his stuff is easily available online. 
+His material highlighting the risks that small-mid size businesses face while banking online. 
+His coverage of the hacking underground economy is also a fascinating look into the economics behind the hack for profit crime culture.<br>
+I find there are some interesting pictures showing the difficult info sec vividly.<br><br>
+- [Welivesecurity.](https://www.welivesecurity.com/)<br>
+It’s an editorial outlet for **internet security news, views and insight, covering the latest, breaking security news**, 
+alongside **video tutorials, in-depth features** and **podcasts**.<br><br>
+- [Threatpost.](https://threatpost.com/)<br>
+The ThreatPost produces unique and high-impact content including **cloud security, malware, vulnerabilies, infosec insider** and more.<br><br>
+
+**REFERENCE**
+1. [Securityscorecard.](https://securityscorecard.com/blog/the-7-best-cyber-security-websites)
+2. [Onlinedegrees.](https://onlinedegrees.sandiego.edu/top-cyber-security-blogs-websites/)
+3. [Informationsecurityhq.](http://informationsecurityhq.com/10-top-websites-for-information-security/)
