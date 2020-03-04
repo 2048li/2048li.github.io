@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "What is the COBIT."
+description: To know something about COBIT.
+date:   2020-03-04 10:12 
+categories: cobit
+---
+## WHAT IS COBIT
+**COBIT**(Control Objectives for Information and Related Technology) is a leading framework for the governance and management of enterprise IT. 
+Created by the non-profit ISACA, COBIT was built by experts to suit the requirements of both business executives 
+and IT professionals. It combines enterprise governance and management techniques, providing principles, practices, models 
+and analytical tools to help users consistently increase the value of, and trust in, their IT systems.<br><br>
+The COBIT business orientation includes linking business goals with its IT infrastructure 
+by providing various maturity models and metrics that measure the achievement while identifying associated business responsibilities 
+of IT processes. The main focus of COBIT 4.1 was illustrated with a process-based model subdivided into four specific domains, including:<br>
+- Planning & Organization
+- Delivering and Support
+- Acquiring & Implementation
+- Monitoring & Evaluating
+
+All of this is further understood under 34 processes as per the specific line of responsibilities. 
+COBIT has a high position in business frameworks and has been recognized under various international standards, 
+including ITIL, CMMI, COSO, PRINCE2, TOGAF, PMBOK, TOGAF, and ISO 27000. 
+COBIT acts as a guideline integrator—merging all solutions under one umbrella.<br>
+
+## THE COMPONENTS OF COBIT
+- **Framework**
+IT helps in organizing the objectives of IT governance and bringing in the best practices in IT processes 
+and domains while linking business requirements.
+- **Process Descriptions**
+It is a reference model and also acts as a common language for every individual in the organization. 
+The process descriptions include planning, building, running, and monitoring of all IT processes.
+- **Control Objectives**
+This provides a complete list of requirements that have been considered by the management for effective IT business control.
+- **Maturity Models**
+Accesses the maturity and the capability of every process while addressing the gaps.
+- **Management Guidelines**
+Helps in better-assigning responsibilities, measuring performances, agreeing on common objectives, 
+and illustrating better interrelationships with every other process.
+
+## THE ADVATAGES OF COBIT Certification
+A COBIT Certification not only prepares professionals for the global challenges to the business IT process 
+but also delivers a substantial amount of expertise information on:<br>
+- IT management issues and how they can affect organizations
+- Principles of IT governance and enterprise IT while establishing the differences between management and governance
+- Accessing the ways in which COBIT 5.0 processes can help the establishment of the five basic principles along with other enablers
+- Discussing COBIT 5.0 with respect to its process reference model and goal cascade
+
+
+
+**REFERENCE**
+1. [Goodelearning.](https://www.goodelearning.com/courses/it-governance/cobit-foundation/what-is-cobit-5)
+2. [Simplilearn.](https://www.simplilearn.com/what-is-cobit-significance-and-framework-rar309-article)
