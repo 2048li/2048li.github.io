@@ -3,9 +3,8 @@ layout: post
 title:  "How to be an information security consultant"
 description: If u want to be an IS consultant...
 date:   2020-03-01 15:20 
-categories: IS Consultant Career
+background: '/img/posts/01.jpg'
 ---
-![CSO](https://s2.ax1x.com/2020/03/02/3WLkT0.png "CSO")
 [The original](https://www.cyberdegrees.org/jobs/security-consultant/)
 
 ## WHAT IS A SECURITY CONSULTANT?

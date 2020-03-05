@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-05T22:36:45+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Shentanli’s Blog</title><subtitle>WAIT AND HOPE! &gt; All human wisdom is summed up in these two words.</subtitle><author><name>shentanli</name></author><entry><title type="html">What is the COBIT.</title><link href="http://localhost:4000/cobit/2020/03/04/4.html" rel="alternate" type="text/html" title="What is the COBIT." /><published>2020-03-04T10:12:00+08:00</published><updated>2020-03-04T10:12:00+08:00</updated><id>http://localhost:4000/cobit/2020/03/04/4</id><content type="html" xml:base="http://localhost:4000/cobit/2020/03/04/4.html">&lt;h2 id=&quot;what-is-cobit&quot;&gt;WHAT IS COBIT&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;COBIT&lt;/strong&gt;(Control Objectives for Information and Related Technology) is a leading framework for the governance and management of enterprise IT. 
+Created by the non-profit ISACA, COBIT was built by experts to suit the requirements of both business executives 
+and IT professionals. It combines enterprise governance and management techniques, providing principles, practices, models 
+and analytical tools to help users consistently increase the value of, and trust in, their IT systems.&lt;br /&gt;&lt;br /&gt;
+The COBIT business orientation includes linking business goals with its IT infrastructure 
+by providing various maturity models and metrics that measure the achievement while identifying associated business responsibilities 
+of IT processes. The main focus of COBIT 4.1 was illustrated with a process-based model subdivided into four specific domains, including:&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Planning &amp;amp; Organization&lt;/li&gt;
+  &lt;li&gt;Delivering and Support&lt;/li&gt;
+  &lt;li&gt;Acquiring &amp;amp; Implementation&lt;/li&gt;
+  &lt;li&gt;Monitoring &amp;amp; Evaluating&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All of this is further understood under 34 processes as per the specific line of responsibilities. 
+COBIT has a high position in business frameworks and has been recognized under various international standards, 
+including ITIL, CMMI, COSO, PRINCE2, TOGAF, PMBOK, TOGAF, and ISO 27000. 
+COBIT acts as a guideline integrator—merging all solutions under one umbrella.&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-components-of-cobit&quot;&gt;THE COMPONENTS OF COBIT&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Framework&lt;/strong&gt;
+IT helps in organizing the objectives of IT governance and bringing in the best practices in IT processes 
+and domains while linking business requirements.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Process Descriptions&lt;/strong&gt;
+It is a reference model and also acts as a common language for every individual in the organization. 
+The process descriptions include planning, building, running, and monitoring of all IT processes.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Control Objectives&lt;/strong&gt;
+This provides a complete list of requirements that have been considered by the management for effective IT business control.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Maturity Models&lt;/strong&gt;
+Accesses the maturity and the capability of every process while addressing the gaps.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Management Guidelines&lt;/strong&gt;
+Helps in better-assigning responsibilities, measuring performances, agreeing on common objectives, 
+and illustrating better interrelationships with every other process.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-advatages-of-cobit-certification&quot;&gt;THE ADVATAGES OF COBIT Certification&lt;/h2&gt;
+&lt;p&gt;A COBIT Certification not only prepares professionals for the global challenges to the business IT process 
+but also delivers a substantial amount of expertise information on:&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;IT management issues and how they can affect organizations&lt;/li&gt;
+  &lt;li&gt;Principles of IT governance and enterprise IT while establishing the differences between management and governance&lt;/li&gt;
+  &lt;li&gt;Accessing the ways in which COBIT 5.0 processes can help the establishment of the five basic principles along with other enablers&lt;/li&gt;
+  &lt;li&gt;Discussing COBIT 5.0 with respect to its process reference model and goal cascade&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;REFERENCE&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.goodelearning.com/courses/it-governance/cobit-foundation/what-is-cobit-5&quot;&gt;Goodelearning.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.simplilearn.com/what-is-cobit-significance-and-framework-rar309-article&quot;&gt;Simplilearn.&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>shentanli</name></author><summary type="html">WHAT IS COBIT COBIT(Control Objectives for Information and Related Technology) is a leading framework for the governance and management of enterprise IT. Created by the non-profit ISACA, COBIT was built by experts to suit the requirements of both business executives and IT professionals. It combines enterprise governance and management techniques, providing principles, practices, models and analytical tools to help users consistently increase the value of, and trust in, their IT systems. The COBIT business orientation includes linking business goals with its IT infrastructure by providing various maturity models and metrics that measure the achievement while identifying associated business responsibilities of IT processes. The main focus of COBIT 4.1 was illustrated with a process-based model subdivided into four specific domains, including: Planning &amp;amp; Organization Delivering and Support Acquiring &amp;amp; Implementation Monitoring &amp;amp; Evaluating</summary></entry><entry><title type="html">The sites a security consultant may need…</title><link href="http://localhost:4000/is/sites/infosec/2020/03/03/3.html" rel="alternate" type="text/html" title="The sites a security consultant may need..." /><published>2020-03-03T07:32:00+08:00</published><updated>2020-03-03T07:32:00+08:00</updated><id>http://localhost:4000/is/sites/infosec/2020/03/03/3</id><content type="html" xml:base="http://localhost:4000/is/sites/infosec/2020/03/03/3.html">&lt;p&gt;This post introduces some sites that track the newest information, envents, analysis strategy and so on. The security consultants may read these blogs to gain
+information they need for better work.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.csoonline.com/news/&quot;&gt;CSO.&lt;/a&gt;&lt;br /&gt;
+The CSO is the online newspaper of enterprise-level security decision makers. You can find the latest &lt;strong&gt;white papers, webcasts, analysis, 
+case studies&lt;/strong&gt;, and &lt;strong&gt;research on security and risk management&lt;/strong&gt;.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thehackernews.com/&quot;&gt;The hacker news.&lt;/a&gt;&lt;br /&gt;
+This site shows the breaking news about cyber attacks and vulnerabilities, which promoting awareness for security experts and hackers.
+It has four main aspects including &lt;strong&gt;Data breaches&lt;/strong&gt;, &lt;strong&gt;Cyber Attacks&lt;/strong&gt;, &lt;strong&gt;Vulnerabilities&lt;/strong&gt;, and &lt;strong&gt;Malware&lt;/strong&gt;. &lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.darkreading.com/&quot;&gt;DarkReading.&lt;/a&gt;&lt;br /&gt;
+The Darkreading encompasses 13 communities, each of which drills deeper into the enterprise security challenge: 
+&lt;strong&gt;Analytics, Attacks &amp;amp; Breaches, Application Security, Careers and People, Cloud Security, Endpoint,  IoT, Mobile, Operations, Perimeter, Risk, Threat Intelligence, 
+and Vulnerabilities and Threats&lt;/strong&gt;. The community members include thought-leading security researchers, CISOs, and technology specialists, 
+along with thousands of other security professionals. You can free to engage in conversations with them if you register on the site.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infosecurity-magazine.com/&quot;&gt;Infosecurity Magazine.&lt;/a&gt;&lt;br /&gt;
+Infosecurity Magazine has over ten years of experience providing knowledge and insight into the information security industry. It 
+focus on &lt;strong&gt;hot topics&lt;/strong&gt; and &lt;strong&gt;trends&lt;/strong&gt;, in-depth &lt;strong&gt;news analysis&lt;/strong&gt; and opinion columns from industry experts.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cio.com/&quot;&gt;CIO.&lt;/a&gt;&lt;br /&gt;
+CIO is an online magazine geared toward those in technology and security leadership roles. 
+Its Editorial focus includes content geared to helping C-suite executives confront the cybersecurity challenges faced by their organizations.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.securityweek.com/&quot;&gt;SecurityWeek.&lt;/a&gt;&lt;br /&gt;
+It posts the information security industry Expert &lt;strong&gt;insights&lt;/strong&gt; and &lt;strong&gt;analysis&lt;/strong&gt; from IT security experts around the world.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cybersecurity-insiders.com/&quot;&gt;Cybersecurity Insiders.&lt;/a&gt;&lt;br /&gt;
+This site is packed with &lt;strong&gt;news, reports, tools, courses&lt;/strong&gt;, and &lt;strong&gt;events&lt;/strong&gt; to help you stay on top of an industry 
+that seems to be changing almost daily. You can also find what’s the hot and trending through newsletter and list of popular articles.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.zdnet.com/blog/security/&quot;&gt;Zero Day.&lt;/a&gt;&lt;br /&gt;
+It is your source for the latest news and insights in &lt;strong&gt;software&lt;/strong&gt; and &lt;strong&gt;hardware security research&lt;/strong&gt;, &lt;strong&gt;threats, vulnerabilities, cyberattacks&lt;/strong&gt;, 
+and other happenings of interest to the modern information security professional.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://krebsonsecurity.com/&quot;&gt;Krebsonsecurity.&lt;/a&gt;&lt;br /&gt;
+Brian Krebs is the leading information security reporter out there right now and it is convenient all of his stuff is easily available online. 
+His material highlighting the risks that small-mid size businesses face while banking online. 
+His coverage of the hacking underground economy is also a fascinating look into the economics behind the hack for profit crime culture.&lt;br /&gt;
+I find there are some interesting pictures showing the difficult info sec vividly.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.welivesecurity.com/&quot;&gt;Welivesecurity.&lt;/a&gt;&lt;br /&gt;
+It’s an editorial outlet for &lt;strong&gt;internet security news, views and insight, covering the latest, breaking security news&lt;/strong&gt;, 
+alongside &lt;strong&gt;video tutorials, in-depth features&lt;/strong&gt; and &lt;strong&gt;podcasts&lt;/strong&gt;.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://threatpost.com/&quot;&gt;Threatpost.&lt;/a&gt;&lt;br /&gt;
+The ThreatPost produces unique and high-impact content including &lt;strong&gt;cloud security, malware, vulnerabilies, infosec insider&lt;/strong&gt; and more.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;REFERENCE&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://securityscorecard.com/blog/the-7-best-cyber-security-websites&quot;&gt;Securityscorecard.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://onlinedegrees.sandiego.edu/top-cyber-security-blogs-websites/&quot;&gt;Onlinedegrees.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://informationsecurityhq.com/10-top-websites-for-information-security/&quot;&gt;Informationsecurityhq.&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>shentanli</name></author><summary type="html">This post introduces some sites that track the newest information, envents, analysis strategy and so on. The security consultants may read these blogs to gain information they need for better work. CSO. The CSO is the online newspaper of enterprise-level security decision makers. You can find the latest white papers, webcasts, analysis, case studies, and research on security and risk management. The hacker news. This site shows the breaking news about cyber attacks and vulnerabilities, which promoting awareness for security experts and hackers. It has four main aspects including Data breaches, Cyber Attacks, Vulnerabilities, and Malware. DarkReading. The Darkreading encompasses 13 communities, each of which drills deeper into the enterprise security challenge: Analytics, Attacks &amp;amp; Breaches, Application Security, Careers and People, Cloud Security, Endpoint, IoT, Mobile, Operations, Perimeter, Risk, Threat Intelligence, and Vulnerabilities and Threats. The community members include thought-leading security researchers, CISOs, and technology specialists, along with thousands of other security professionals. You can free to engage in conversations with them if you register on the site. Infosecurity Magazine. Infosecurity Magazine has over ten years of experience providing knowledge and insight into the information security industry. It focus on hot topics and trends, in-depth news analysis and opinion columns from industry experts. CIO. CIO is an online magazine geared toward those in technology and security leadership roles. Its Editorial focus includes content geared to helping C-suite executives confront the cybersecurity challenges faced by their organizations. SecurityWeek. It posts the information security industry Expert insights and analysis from IT security experts around the world. Cybersecurity Insiders. This site is packed with news, reports, tools, courses, and events to help you stay on top of an industry that seems to be changing almost daily. You can also find what’s the hot and trending through newsletter and list of popular articles. Zero Day. It is your source for the latest news and insights in software and hardware security research, threats, vulnerabilities, cyberattacks, and other happenings of interest to the modern information security professional. Krebsonsecurity. Brian Krebs is the leading information security reporter out there right now and it is convenient all of his stuff is easily available online. His material highlighting the risks that small-mid size businesses face while banking online. His coverage of the hacking underground economy is also a fascinating look into the economics behind the hack for profit crime culture. I find there are some interesting pictures showing the difficult info sec vividly. Welivesecurity. It’s an editorial outlet for internet security news, views and insight, covering the latest, breaking security news, alongside video tutorials, in-depth features and podcasts. Threatpost. The ThreatPost produces unique and high-impact content including cloud security, malware, vulnerabilies, infosec insider and more.</summary></entry><entry><title type="html">The introduction of ISO 27001</title><link href="http://localhost:4000/iso/standard/isms/2020/03/02/2.html" rel="alternate" type="text/html" title="The introduction of ISO 27001" /><published>2020-03-02T11:40:00+08:00</published><updated>2020-03-02T11:40:00+08:00</updated><id>http://localhost:4000/iso/standard/isms/2020/03/02/2</id><content type="html" xml:base="http://localhost:4000/iso/standard/isms/2020/03/02/2.html">&lt;h2 id=&quot;what-is-iso-27001&quot;&gt;WHAT IS ISO 27001&lt;/h2&gt;
+&lt;p&gt;Before explain the ISO 27001, I’d like to talk about &lt;strong&gt;ISMS&lt;/strong&gt;.&lt;br /&gt;&lt;br /&gt;
+ISMS means Information Security Management System, which describes and demonstrates organisation’s approach to Information Security.
+It includes how people, policies, controls and systems identify, then address the opportunities and threats revolving around valuable information and related assets.&lt;br /&gt;&lt;br /&gt;
+Then comes ISO 27001, which is the international standard for an ISMS. &lt;br /&gt;&lt;br /&gt;
+ISO/IEC 27001 is a part of the ISO/IEC 27000 family of standards, of which the last version was published in 2013, 
+with a few minor updates since then. It is published by the International Organization for Standardization (ISO) 
+and the International Electrotechnical Commission (IEC) under the joint ISO and IEC subcommittee, ISO/IEC JTC 1/SC 27.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-specification&quot;&gt;THE SPECIFICATION&lt;/h2&gt;
+&lt;p&gt;It is developed to provide a model for establishing, implementing, operating, monitoring, reviewing, 
+maintaining and improving an information security management system. The specification defines a six-part planning process:&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Define a security policy.&lt;/li&gt;
+  &lt;li&gt;Define the scope of the ISMS.&lt;/li&gt;
+  &lt;li&gt;Conduct a risk assessment.&lt;/li&gt;
+  &lt;li&gt;Manage identified risks.&lt;/li&gt;
+  &lt;li&gt;Select control objectives and controls to be implemented.&lt;/li&gt;
+  &lt;li&gt;Prepare a statement of applicability.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The specification includes details for documentation, management responsibility, internal audits, continual improvement, 
+and corrective and preventive action.27001:2005 applied the Plan-Do-Check-Act (PDCA) cycle to all the processes in ISMS.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Plan (establishing the ISMS)
+Establish the policy, the ISMS objectives, processes and procedures related to risk management and the improvement of information security to provide results in line with the global policies and objectives of the organization.&lt;/li&gt;
+  &lt;li&gt;Do (implementing and workings of the ISMS)
+Implement and exploit the ISMS policy, controls, processes and procedures.&lt;/li&gt;
+  &lt;li&gt;Check (monitoring and review of the ISMS)
+Assess and, if applicable, measure the performances of the processes against the policy, objectives and practical experience and report results to management for review.&lt;/li&gt;
+  &lt;li&gt;Act (update and improvement of the ISMS)
+Undertake corrective and preventive actions, on the basis of the results of the ISMS internal audit and management review, or other relevant information to continually improve the said system.
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;REFERENCE&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://whatis.techtarget.com/definition/ISO-27001&quot;&gt;ISO 27001&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.itgovernance.co.uk/iso27001&quot;&gt;itISO&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.isms.online/information-security-management-system-isms/&quot;&gt;ISMSonline&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/ISO/IEC_27001&quot;&gt;wikiiso&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>shentanli</name></author><summary type="html">WHAT IS ISO 27001 Before explain the ISO 27001, I’d like to talk about ISMS. ISMS means Information Security Management System, which describes and demonstrates organisation’s approach to Information Security. It includes how people, policies, controls and systems identify, then address the opportunities and threats revolving around valuable information and related assets. Then comes ISO 27001, which is the international standard for an ISMS. ISO/IEC 27001 is a part of the ISO/IEC 27000 family of standards, of which the last version was published in 2013, with a few minor updates since then. It is published by the International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC) under the joint ISO and IEC subcommittee, ISO/IEC JTC 1/SC 27.</summary></entry><entry><title type="html">How to be an information security consultant</title><link href="http://localhost:4000/2020/03/01/1.html" rel="alternate" type="text/html" title="How to be an information security consultant" /><published>2020-03-01T15:20:00+08:00</published><updated>2020-03-01T15:20:00+08:00</updated><id>http://localhost:4000/2020/03/01/1</id><content type="html" xml:base="http://localhost:4000/2020/03/01/1.html">&lt;p&gt;&lt;a href=&quot;https://www.cyberdegrees.org/jobs/security-consultant/&quot;&gt;The original&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-a-security-consultant&quot;&gt;WHAT IS A SECURITY CONSULTANT?&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Security Consultant&lt;/strong&gt; is the infosec equivalent of Obi-Wan – advisor, guide and all-round guru. In your role as an expert consultant, you’ll be able to design and implement the best security solutions for an organization’s needs. You’ll talk to stakeholders, draw up budgets, supervise teams, and get stuck into research. You’ll conduct security tests and probe for vulnerabilities. In other words, you’ll put your technical and interpersonal skills to good use.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I think this is an exciting job. Back to five years ago, I felt confused on which road I should go which is releated with security. After the internship and two years’ work experience, I cannot wait to challenge being a security consultant.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;security-consultant-job-responsibilities&quot;&gt;SECURITY CONSULTANT JOB RESPONSIBILITIES&lt;/h2&gt;
+
+&lt;p&gt;Each institution will be dealing with unique IT security threats, so your day-to-day tasks can vary greatly. You may be required to: &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Determine the most effective way to protect computers, networks, software, data and information systems against any possible attacks&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Interview staff and heads of departments to determine specific security issues&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Perform vulnerability testing, risk analyses and security assessments&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Research security standards, security systems and authentication protocols&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Prepare cost estimates and identify integration issues for IT project managers&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Plan, research and design robust security architectures for any IT project&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Test security solutions using industry standard analysis criteria&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Deliver technical reports and formal papers on test findings&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Provide technical supervision for (and guidance to) a security team&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Define, implement and maintain corporate security policies&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Respond immediately to security-related incidents and provide a thorough post-event analysis&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Update and upgrade security systems as needed&lt;br /&gt;&lt;br /&gt;
+In a large organization, you will typically collaborate with IT Project Managers and/or a &lt;a href=&quot;https://www.cyberdegrees.org/jobs/security-manager/&quot;&gt;Security Manager&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;security-consultant-career-path&quot;&gt;SECURITY CONSULTANT CAREER PATH&lt;/h2&gt;
+&lt;p&gt;To become a Security Consultant, you should consider gaining your work experience in intermediate-level security jobs such as:&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cyberdegrees.org/jobs/security-administrator/&quot;&gt;Security Administrator&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cyberdegrees.org/jobs/security-specialist/&quot;&gt;Security Specialist&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cyberdegrees.org/jobs/security-analyst/&quot;&gt;Security Analyst&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cyberdegrees.org/jobs/security-engineer/&quot;&gt;Security Engineer&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cyberdegrees.org/jobs/security-auditor/&quot;&gt;Security Auditor&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;
+If you’re looking for a bump in pay and the chance to lead a large team, these jobs are logical next steps:&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cyberdegrees.org/jobs/security-architect/&quot;&gt;Security Architect&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cyberdegrees.org/jobs/security-manager/&quot;&gt;Security Manager&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;IT Project Manager&lt;br /&gt;&lt;br /&gt;
+The highest seniority and pay generally comes with being a:&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cyberdegrees.org/jobs/security-director/&quot;&gt;Security Director&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cyberdegrees.org/jobs/chief-information-security-officer-ciso/&quot;&gt;CISO&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;security-consultant-job-requirements&quot;&gt;SECURITY CONSULTANT JOB REQUIREMENTS&lt;/h2&gt;
+&lt;p&gt;Security consultancy is not for the neophyte. Employers will want to see a bachelor’s or master’s degree in the field, at least 3 years of work experience, and plenty of technical skills in your application. IAPSC membership and relevant certifications will give your résumé some extra shine.&lt;br /&gt;&lt;br /&gt;
+Finally, take a good, hard look at the job description and the reputation of the company. Not all security consultancy jobs are made equal. Some consultancy firms specialize in certain aspects of security (e.g. robust security architectures, auditing, reverse engineering and pen testing, etc.). Others do all kinds of work. And big multinationals may have scores of consultants on their payroll. Reach out to current professionals through networking sites and conferences before you make any decisions. Getting “insider advice” is one of the most effective steps you can take in this arena.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Hard Skills&lt;br /&gt;&lt;br /&gt;
+Since the job of a Security Consultant covers the waterfront, technical knowledge is paramount. Here are a variety of hard skills that we’ve found employers requesting:&lt;br /&gt;&lt;br /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;IDS/IPS, penetration and vulnerability testing&lt;br /&gt;&lt;/li&gt;
+      &lt;li&gt;Firewall and intrusion detection/prevention protocols&lt;br /&gt;&lt;/li&gt;
+      &lt;li&gt;Secure coding practices, ethical hacking and threat modeling&lt;br /&gt;&lt;/li&gt;
+      &lt;li&gt;ISO 27001/27002, ITIL and COBIT frameworks&lt;br /&gt;&lt;/li&gt;
+      &lt;li&gt;PCI, HIPAA, NIST, GLBA and SOX compliance assessments&lt;br /&gt;&lt;/li&gt;
+      &lt;li&gt;Windows, UNIX and Linux operating systems&lt;br /&gt;&lt;/li&gt;
+      &lt;li&gt;Performance tuning views, indexes, SQL and PLSQL&lt;br /&gt;&lt;/li&gt;
+      &lt;li&gt;Application security and encryption technologies&lt;br /&gt;&lt;/li&gt;
+      &lt;li&gt;C, C++, C#, Java or PHP programming languages&lt;br /&gt;&lt;/li&gt;
+      &lt;li&gt;Subnetting, DNS, encryption technologies and standards, VPNs, VLANs, VoIP and other network routing methods&lt;br /&gt;&lt;/li&gt;
+      &lt;li&gt;Network and web related protocols (e.g., TCP/IP, UDP, IPSEC, HTTP, HTTPS, routing protocols, etc.)&lt;br /&gt;&lt;/li&gt;
+      &lt;li&gt;Advanced Persistent Threats (APT), phishing and social engineering, network access controllers (NAC), gateway anti-malware and enhanced authentication&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Soft Skills&lt;br /&gt;&lt;br /&gt;
+It goes without saying that great leadership and negotiation skills are going to be helpful in this job. Companies are also looking for candidates with excellent oral and communication abilities. Talking to clients and working with diverse IT teams requires patience and tact.&lt;br /&gt;&lt;br /&gt;
+Like Security Architects and Security Engineers, Security Consultants are creative builders, complex problem-solvers and savvy analysts. You’ll be dealing with a huge range of variables when you design and assess security systems.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;In summary, being an security consultant is challenging. So let’s go for it!&lt;/strong&gt;&lt;/p&gt;</content><author><name>shentanli</name></author><summary type="html">The original</summary></entry><entry><title type="html">Hello, Blog</title><link href="http://localhost:4000/hello/2020/03/01/Hello.html" rel="alternate" type="text/html" title="Hello, Blog" /><published>2020-03-01T12:47:00+08:00</published><updated>2020-03-01T12:47:00+08:00</updated><id>http://localhost:4000/hello/2020/03/01/Hello</id><content type="html" xml:base="http://localhost:4000/hello/2020/03/01/Hello.html">&lt;p&gt;I built this blog for some career releated information. &lt;br /&gt;
+Maybe more later~&lt;/p&gt;</content><author><name>shentanli</name></author><summary type="html">I built this blog for some career releated information. Maybe more later~</summary></entry></feed>

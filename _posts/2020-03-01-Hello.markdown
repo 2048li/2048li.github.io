@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello, Blog"
 description: First blog in this site.
-date:   2020-03-01 16:17 +0530
+date:   2020-03-01 10:17 +0530
 categories: Hello
 ---
 I built this blog for some career releated information. <br>
