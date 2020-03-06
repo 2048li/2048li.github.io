@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "What's IDP & ISP"
+description: Intro about IDP and ISP...
+date:   2020-03-05 10:29 
+background: '/img/posts/01.jpg'
+---
+## INTORDUCTION
+Mention network, the firewall comes first. A firewall does the filtering, blocking and allowing of addresses, ports, service, 
+but also allows some of these through the network as well. 
+However this means that the access allowed is just let through, and firewalls have no clever way of telling 
+whether that traffic is legit and normal. This is where the IDS and IPS systems come into play.<br>
+**Intrusion Detection Systems (IDS)** and **Intrusion Prevention Systems (IPS)** are both parts of the network infrastructure.
+IDS/IPS detect and look at that traffic in close detail to see if it is an attack. 
+IDS/IPS systems are made up of sensors, analysers and GUI’s in order to do their specialised job.
+The main difference between them is that IDS is a **monitoring** system, while IPS is a **control** system.
+IDS analyzes network **traffic for signatures** that match known cyberattacks, Besides, IPS also analyzes **packets**, 
+but can also **stop the packet** from being delivered based on what kind of attacks it detects — helping stop the attack.
+## HOW DOES IDS WORK
+The three IDS detection methodologies are typically used to detect incidents: <br>
+- Signature-Based Detection compares signatures against observed events to identify possible incidents. 
+This is the simplest detection method because it compares only the current unit of activity (such as a packet or a log entry, to a list of signatures) using string comparison operations.
+- Anomaly-Based Detection compares definitions of what is considered normal activity with observed events in order to identify 
+significant deviations. This detection method can be very effective at spotting previously unknown threats.
+- Stateful Protocol Analysis compares predetermined profiles of generally accepted definitions for benign protocol activity 
+for each protocol state against observed events in order to identify deviations.
+
+## THE IPS TECHNIQUES 
+IPS have the ability to take actions on defined policies such as blocking a connection, providing alerts, logging the event, 
+quarantining the host or a combination of these. 
+Policies define the rules that specify what should be detected and type of response required. 
+Policies will include both signature based rules and anomaly detection rules for learning typical network traffic and setting thresholds for these. 
+DOS and reconnaissance rules are based on traffic statistics.
+IPS solutions also provide logging and alerting on recent attacks so it should be easy to understand and trace an attack, 
+and provide supporting tools that would aid in blocking attacks. 
+Also clicking the attack should provide detailed information about the attack and what can be done to resolve such an attack. 
+
+**REFERENCE**
+1. [Varonis.](https://www.varonis.com/blog/ids-vs-ips/)
+2. [Ics.](http://www.internet-computer-security.com/Firewall/IPS.html)
+3. [Juniper.](https://www.juniper.net/us/en/products-services/what-is/ids-ips/)
