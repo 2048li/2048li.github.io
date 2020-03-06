@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "How to write secure code"
+date:   2020-03-05 11:40 
+background: '/img/posts/01.jpg'
+---
+We know that most of the software vulnerabilies caused by insecure code implemention and its design. So how to write secure code?
+Coding is much more than slinging code. To do it right, coding requires both improvisation and planning.
+There are some common steps programmers can take to write secure software:
+- Don't trust user's input
+Always validate all inputs.
+- Model threats to your code
+List all the useful details about the software you're building. 
+Threat models also should be looked at frequently to ensure they're up to date, 
+account for changes to the code, and other factors that might affect the security of your code and system.
+-Pick great tools
+- Code check by yourself
+You can identify security weaknesses from the
+[Common Weakness Enumeration (CWE)](https://www.perforce.com/blog/qac/secure-coding-standards).
+- ISO/IEC TS 17961:2013 “C SECURE”
+You can apply the [ISO/IEC TS 17961:2013 “C Secure” coding rules](https://wiki.sei.cmu.edu/confluence/pages/viewpage.action?pageId=87151954).
+- Keep It Secure and Simple
+Keep your designs simple, and you can prove the security of a system.
+- Write code that easy to read
+- Never store password as plaintext
+- Automate to make security simple
+Developers should automate their process to make security best practices easier to adopt.
+- Familiar with the common programming error
+
+
+**REFERENCE**
+1. [Kidscodecs.](https://www.kidscodecs.com/how-to-write-secure-code/)
+2. [Perforce-writesecure.pdf.](https://www.perforce.com/sites/default/files/pdfs/how-to-write-secure-code-c.pdf)
+3. [Resources.](https://resources.whitesourcesoftware.com/blog-whitesource/secure-coding)
+4. [Techbeacon.](https://techbeacon.com/security/4-ways-secure-your-code-regardless-programming-language)
