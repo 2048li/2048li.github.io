@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introduction of firewall"
+title:  "Introduction of the firewall"
 date:   2020-03-06 16:31 
 background: '/img/posts/01.jpg'
 ---
@@ -18,6 +18,7 @@ Firewalls generally filter traffic based on two methodologies:<br>
 - The type of criteria used to determine whether traffic should be allowed through varies from one type to another.
 - A firewall may be concerned with the type of traffic or with source or destination addresses and ports.
 - A firewall may also use complex rules based on analyzing the application data to determine if the traffic should be allowed through.
+
 ## Advantage
 - A firewall is an intrusion detection mechanism. Firewalls are specific to an organization’s security policy. The settings of firewalls can be altered to make pertinent modification to the firewall functionality.
 - Firewalls can be configured to bar incoming traffic to POP and SNMP and to enable email access.
@@ -25,6 +26,7 @@ Firewalls generally filter traffic based on two methodologies:<br>
 - Firewalls can be used to restrict access to specific services. For example, the firewall can grant public access to the web server but prevent access to the telnet and the other non-public daemons.
 - Firewall verifies the incoming and outgoing traffic against firewall rules. It acts as a router in moving data between networks.
 - Firewalls are excellent auditors. Given plenty of disk or remote logging capabilities, they can log any and all traffic that passes through.
+
 ## Disadvantage
 - A firewall can’t prevent revealing sensitive information through social engineering.
 - Firewall can’t protect against what has been authorized. Firewalls permit normal communications of approved applications, 
