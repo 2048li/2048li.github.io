@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Zero Trust Security"
+date:   2020-03-08 10:44 
+background: '/img/posts/01.jpg'
+---
+Now, CIOs, CISOs and other corporate executives are increasingly implementing Zero Trust as the technologies that support it move into the mainstream, as the pressure to protect enterprise systems and data grows significantly, and as attacks become more sophisticated.
+
+## What's Zero Trust?
+The Zero Trust Network, or Zero Trust Architecture, model was created in 2010 by John Kindervag, who at the time was a principal analyst at Forrester Research Inc.<br>
+Zero Trust is a security concept centered on the belief that organizations should not automatically trust anything inside or outside its perimeters and instead must verify anything and everything trying to connect to its systems before granting access.
+
+## Why Zero Trust?
+Security and technology experts say the castle-and-moat approach isn’t working. They point to the fact that some of the most egregious data breaches happened because hackers, once they gained access inside corporate firewalls, were able move through internal systems without much resistance.<br>
+*If you trust everything, then you don’t have a chance of changing anything security wise.*<br>
+
+## The technologies behind Zero Trust
+The Zero Trust approach relies on various existing technologies and governance processes to accomplish its mission of securing the enterprise IT environment.<br> 
+To make the endpoint secure, Zero Trust draws on technologies such as multifactor authentication, IAM, orchestration, analytics, encryption, scoring and file system permissions. Zero Trust also calls for governance policies such as giving users the least amount of access they need to accomplish a specific task.
+
+## Get started with Zero Trust
+Developing a Zero Trust environment isn’t just about implementing these individual technologies. Instead,  it’s about using these and other technologies to enforce the idea that no one and nothing has access until they’ve proven they should be trusted. There is a simple five-step method:<br>
+1. Identify the protect surface<br>
+2. Map the transaction flows<br>
+3. Build a Zero Trust architecture<br>
+4. Create Zero Trust policy<br>
+5. Monitor and maintain<br>
+
+
+
+**REFERENCE**
+1. [CSOonline.](https://www.csoonline.com/article/3247848/what-is-zero-trust-a-model-for-more-effective-security.html)
+2. [Paloaltonetworks.](https://www.paloaltonetworks.com/cyberpedia/what-is-a-zero-trust-architecture)
