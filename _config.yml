@@ -12,6 +12,9 @@ github_username:    2048li
 #facebook_username:  StartBootstrap
 linkedin_username:  xiaojuan-li-62521294
 
+disqus:
+  shortname: shentanli.disqus.com
+
 # Add your google-analytics ID here to activate google analytics
 #google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
