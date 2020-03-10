@@ -4,8 +4,25 @@ title:  "Know GDPR"
 date:   2020-03-10 17:23 
 background: '/img/posts/01.jpg'
 ---
+GDPR means General Data Protection Regulation, is a regulation in EU law on data protection and privacy. It also addresses the transfer of personal data outside the EU and EEA areas. We often talk about the personal data, so what is it?
+
+## What is personal data?
+Personal data is any information relating to an identified or identifiable natural person.<br>
+There are two types of responsibilities regarding the protection of personal data: data “controllers” and data “processors.”
+## What is EU GDPR?
+GDPR was approved on April 14, 2016, by the European Parliament and the Council of Europe. It will be applied directly in each country, allowing for a consistency of rules between nations on the rights of citizens’ privacy.
+## How are GDPR and ISO 27001 related?
+SO 27001 is a framework for information protection. According to GDPR, personal data is critical information that all organizations need to protect. Of course, there are some EU GDPR requirements that are not directly covered in ISO 27001, such as supporting the rights of personal data subjects: the right to be informed, the right to have their data deleted, and data portability. But, if the implementation of ISO 27001 identifies personal data as an information security asset, most of the EU GDPR requirements will be covered.<br>
+In addition to the adopted technical controls, structured documentation, monitoring, and continuous improvement, the implementation of ISO 27001 promotes a culture and awareness of security incidents in organizations. The employees of these organizations are more aware and have more knowledge to be able to detect and report security incidents. Information security is not only about technology; it’s also about people and processes.<br>
+The ISO 27001 standard is an excellent framework for compliance with the EU GDPR. If the organization has already implemented the standard, it is at least halfway toward ensuring the protection of personal data and minimizing the risk of a leak, from which the financial impact and visibility could be catastrophic for the organization. The first thing an organization should do is conduct an EU GDPR GAP Analysis to determine what remains to be done to meet the EU GDPR requirements, and then these requirements can be easily added through the Information Security Management System that is already set by ISO 27001.<br>
+To summarize, almost any company that is operating internationally will have to comply with this regulation. As ISO 27001 is internationally recognized and implemented all over the world, it may be the best option to facilitate immediate compliance with EU GDPR.
+
+
+
+
 
 
 **REFERENCE**
 1. [GDPR.](https://advisera.com/27001academy/blog/2016/10/17/does-iso-27001-implementation-satisfy-eu-gdpr-requirements/?utm_source=step-by-step-explanation-of-iso-27001-risk-management&utm_medium=downloaded-content&utm_content=lang-en&utm_campaign=free-blog-27001)
 2. [GDPR-2.](https://advisera.com/eugdpracademy/knowledgebase/what-is-the-eu-gdpr-and-why-is-it-applicable-to-the-whole-world/)
+3. [Wiki-GDPR.](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)
