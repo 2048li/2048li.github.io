@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Know GDPR"
+date:   2020-03-10 17:23 
+background: '/img/posts/01.jpg'
+---
+
+
+**REFERENCE**
+1. [GDPR.](https://advisera.com/27001academy/blog/2016/10/17/does-iso-27001-implementation-satisfy-eu-gdpr-requirements/?utm_source=step-by-step-explanation-of-iso-27001-risk-management&utm_medium=downloaded-content&utm_content=lang-en&utm_campaign=free-blog-27001)
+2. [GDPR-2.](https://advisera.com/eugdpracademy/knowledgebase/what-is-the-eu-gdpr-and-why-is-it-applicable-to-the-whole-world/)
