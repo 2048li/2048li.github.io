@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "Something about ISP"
+date:   2020-03-11 15:25
+background: '/img/posts/01.jpg'
+---
+An information security policy (ISP) is a set of rules that guide individuals who work with IT assets. 
+ISPs should address all data, programs, systems, facilities, infrastructure, users, third-parties and fourth-parties of an organization.
+
+## The Purpose of an Information Security Policy.
+An information security policy aims to enact protections and limit the distribution of data to only those with authorized access. 
+Organizations create ISPs to:<br>
+- Establish a general approach to information security
+- Detect and minimize the impact of compromised information assets such as misuse of data, networks, mobile devices, computers and applications
+- Protect the reputation of the organization
+- Comply with legal and regulatory requirements like NIST, GDPR, HIPAA and FERPA
+- Protect their customer's data
+- Provide effective mechanisms to respond to complaints and queries related to real or perceived cyber security risks such as phishing, malware and ransomware
+- Limit access to key information technology assets to those who have an acceptable use
+
+## The Importance of an Information Security Policy.
+Creating an effective security policy and taking steps to ensure compliance is a critical step to prevent and mitigate security breaches.
+ISPs are important for new and established organizations. 
+Increasing digitalization means every employee is generating data and a portion of that data must be protected from unauthorized access. 
+Depending on your industry, it may even be protected by laws and regulations. <br>
+To make your security policy truly effective, update it in response to changes in your company, new threats, conclusions drawn from previous breaches, 
+and other changes to your security posture.
+
+## The elements of an Information Security Policy.
+An information security policy can be as broad as you want it to be. 
+It can cover IT security and/or physical security, as well as social media usage, lifecycle management and security training. 
+In general, an information security policy will have these nine key elements:<br>
+- Purpose
+- Audience
+- Information security objectives
+- Authority and access control policy
+- Data classification
+- Data support and operations
+- Security awareness training
+- Responsibilities and duties of employees
+
+
+**REFERENCE**
+1. [ISP-exabeam.](https://www.exabeam.com/information-security/information-security-policy/)
+2. [ISP-Upguard.](https://www.upguard.com/blog/information-security-policy)
