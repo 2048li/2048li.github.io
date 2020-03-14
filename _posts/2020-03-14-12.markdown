@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Review of the Network Security"
+date:   2020-03-14 20:05
+background: '/img/posts/01.jpg'
+---
+We leart network security during university, but some of us seem not to go deeper into it. This post I will review network security, and the relationship between cybersecurity and information security. To sum up, **network security < cybersecurity < information security**.<br>
+### The Network Security
+Network security, a subset of cybersecurity, aims to protect any data that is being sent through devices in your network to ensure that the information is not changed or intercepted. The role of network security is to protect the organization’s IT infrastructure from all types of cyber threats including:<br>
+- Viruses, worms and Trojan horses
+- Zero-day attacks
+- Hacker attacks
+- Denial of service attacks
+- Spyware and adware
+
+The network security team implements the hardware and software necessary to guard the security architecture. With the proper network security in place, your system can detect emerging threats before they infiltrate your network and compromise your data. The most common network security components include:<br>
+- Firewalls
+- Anti-virus software
+- Intrusion detection and prevention systems (IDS/IPS)
+- Virtual private networks (VPN)
+
+### The Cybersecurity
+Cybersecurity, a subset of information security, is the practice of defending your organization’s networks, computers and data from unauthorized digital access, attack or damage by implementing various processes, technologies and practices. With the countless sophisticated threat actors targeting all types of organizations, it is critical that your IT infrastructure is secured at all times to prevent a full-scale attack on your network and risk exposing your company’ data and reputation.<br>
+When cyber-threat actors target your organization, they research not only your business, but your employees as well. They know that employees outside of IT security aren’t as aware of cyber threats, so they execute cyberattacks that exploit human vulnerabilities. Through the process of social engineering, threat actors manipulate people into giving the access to sensitive information. 
+
+### The Information Security
+Information security (also known as InfoSec) ensures that both physical and digital data is protected from unauthorized access, use, disclosure, disruption, modification, inspection, recording or destruction. Information security differs from cybersecurity in that InfoSec aims to keep data in any form secure, whereas cybersecurity protects only digital data. If your business is starting to develop a security program, information security is where you should first begin, as it is the foundation for data security.
+
+
+
+
+
+**REFERENCE**
+1. [Secureworks.](https://www.secureworks.com/blog/cybersecurity-vs-network-security-vs-information-security)
