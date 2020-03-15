@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "The SOC"
+date:   2020-03-15 12:02
+background: '/img/posts/01.jpg'
+---
+A **security operations center**, or **SOC(安全运营中心)**, is a team of expert individuals and the facility in which they dedicate themselves entirely to high-quality IT security operations. A SOC seeks to prevent cybersecurity threats and detects and responds to any incident on the computers, servers and networks it oversees. What makes a SOC unique is the ability to monitor all systems on an ongoing basis, as employees work in shifts, rotating and logging activity around the clock.
+
+As opposed to a traditional IT department, a SOC staff primarily includes a team of highly experienced cybersecurity analysts and trained engineers. These individuals use a range of computer programs and specialized security processes that can pinpoint weaknesses in the company’s virtual infrastructure and prevent these vulnerabilities from leading to intrusion or theft.
+
+The technologies SOCs employ include an arsenal of firewalls, probes, security information and event management systems and solutions that collect and monitor data as it moves across the various platforms and endpoints. The SOC team stays ahead of potential threats by analyzing active feeds, establishing rules, identifying exceptions, enhancing responses and keeping a close eye on possible vulnerabilities in the defenses they have already set up. Ensuring these programs comply with company, industry and government regulations is also a significant part of a SOC’s job.
+
+SOCs use strategic methodologies and processes to build and maintain the company’s cybersecurity defenses. These procedures break down into the following identifiable tasks:
+
+- Establishing awareness of assets — From the start of their operations, SOCs need to be well-versed in the tools and technologies at their disposal, as well as the hardware and software running on the network. A high awareness can help maximize the chances of detecting developing threats early on.
+- Proactive monitoring — Instead of focusing on reactive measures if irregularities occur, SOCs take intentional steps to detect malicious activities before they lead to substantial harm.
+- Managing logs and responses — In case of a breach, it is essential to be able to retrace your steps to find where something may have gone wrong. Thorough logging of activity and communications across the networks can give proper authorities the intel if a forensic investigation comes into play.
+- Ranking alerts — When irregularities surface, one of the tasks a SOC will undergo is ranking the severity of incidents. The more aggressive the intrusion, or the more closely it links to a potential network vulnerability, the more urgently the SOC will take action to eliminate the threat.
+- Adjusting defenses — Vulnerability management and increasing the awareness of threats are essential parts of preventing security breaches. That includes constant surveillance of perimeter and inside operations, as occasionally breaches occur from within the organization itself.
+- Checking compliance — In this age of data technology, there are few things more relevant to information security than maintaining essential compliance regulations. SOCs use their daily efforts to keep up with any mandatory protective measures while going a step further to keep the company from harm.
+
+Each of these tasks is a critical function of SOCs that keeps the organization well-protected as a whole. By covering all of these bases, SOCs maintain control of the company’s array of systems and act immediately and intelligently if an intrusion occurs.
+
+
+**REFERENCE**
+1. [Blackstratus.](https://www.blackstratus.com/what-is-a-security-operations-center-and-why-is-it-important/)
