@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "The CISSP"
+date:   2020-03-17 10:19
+background: '/img/posts/01.jpg'
+---
+After browsing the CISSP textbook, I decided to pass it. Because I think it is what I want to master, 
+and the CISSP certification is a stepping stone for me to become a security consultant.
+
+## What's CISSP
+CISSP means Certified Information Systems Security Professional, it is one of the most sought-after and elite certifications in the information security industry. 
+Before getting the CISSP exam, we should know the contents it covered. <br>
+The CISSP exam covers eight domains from the (ISC)2 Common Body of Knowledge (CBK):<br>
+- Security and Risk Management
+- Asset Security
+- Security Engineering
+- Communications and Network Security
+- Identity and Access Management
+- Security and Assessment Testing
+- Security Operations
+- Software Development Security
+
+And we should also know the (CISSP exam outline)[https://www.isc2.org/-/media/ISC2/Certifications/Exam-Outlines/CISSP-Exam-Outline-121417--Final.ashx]
+
+## How to pass CISSP
+The CISSP textbook is important, we should learn, think deeply and master it. I have found some information to help me learn by myself. For example, [ZhiHu CISSP](https://zhuanlan.zhihu.com/tangjf10).
+
+Once we decided to pass it, we should make a plan. Everyone's store of knowledge and security experience are diverse, this means difference time length we may spend. 
+There are many good documents and videos we can access to. So get them, learn and think, we can pass it. 
+
+Just go for it!
+
+
+**REFERENCE**
+1. (ISC2-CISSP.)[https://www.isc2.org/Certifications/CISSP#]
+2. (How to pass CISSP.)[https://blog.netwrix.com/2018/03/06/how-to-pass-the-cissp-exam-on-your-first-attempt-seven-tips-from-a-cissp-certified-pro/]
+
