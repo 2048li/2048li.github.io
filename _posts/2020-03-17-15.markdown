@@ -20,7 +20,7 @@ The CISSP exam covers eight domains from the (ISC)2 Common Body of Knowledge (CB
 - Security Operations
 - Software Development Security
 
-And we should also know the (CISSP exam outline)[https://www.isc2.org/-/media/ISC2/Certifications/Exam-Outlines/CISSP-Exam-Outline-121417--Final.ashx]
+And we should also know the [CISSP exam outline](https://www.isc2.org/-/media/ISC2/Certifications/Exam-Outlines/CISSP-Exam-Outline-121417--Final.ashx)
 
 ## How to pass CISSP
 The CISSP textbook is important, we should learn, think deeply and master it. I have found some information to help me learn by myself. For example, [ZhiHu CISSP](https://zhuanlan.zhihu.com/tangjf10).
@@ -32,6 +32,6 @@ Just go for it!
 
 
 **REFERENCE**
-1. (ISC2-CISSP.)[https://www.isc2.org/Certifications/CISSP#]
-2. (How to pass CISSP.)[https://blog.netwrix.com/2018/03/06/how-to-pass-the-cissp-exam-on-your-first-attempt-seven-tips-from-a-cissp-certified-pro/]
+1. [ISC2-CISSP.](https://www.isc2.org/Certifications/CISSP#)
+2. [How to pass CISSP.](https://blog.netwrix.com/2018/03/06/how-to-pass-the-cissp-exam-on-your-first-attempt-seven-tips-from-a-cissp-certified-pro/)
 
