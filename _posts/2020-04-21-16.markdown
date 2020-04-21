@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Planning for Business Continuity in CISSP"
+date:   2020-04-21 10:01
+background: '/img/posts/01.jpg'
+---
+These days, I am preparing for CISSP. Let's discuss the BCP in this post.
+
+BCP means business continuity planning. It involves accessing the risks to organizational processes and creating policies, plans, and procedures
+to minimize the impact those risks might have on the organization if they were to occur. The BCP is typically strategically focused at a high
+level and center themselves on business processes and operations, while DRP(Disaster Recovery Planning) tends to be more tactical in nature and describes
+technical activities such ad recovery sites, backups, and fault tolerance.
+
+The BCP process has for main steps:
+- Project scope and planning
+  - Structured analysis of the business's organization;
+  - The creation of a BCP team;
+  - An assessment of the resources available to participate in business continuity activities;
+  - An analysis of the legal and regulatory landscape.
+  
+  The identification process is critical. It provides the groundwork necessary to help identify potential members of the BCP team. What's more,
+  it provides the foundation for the remainder fo the BCP process.
+  
+- Business impact assessment(BIA)
+  BIA identifies the resources that are critical to an organization's ongoing viability and the threats posed to those resources.
+  The results of the BIA provide you with quantitative measures that can help you prioritize the commitment of business continuity resources.
+
+- Continuity planning
+  This phase focuses on developing and implementing a continuity strategy to minimize the impact realized risks might have on protected assets.
+  - Strategy development
+  - Provisions and processes
+  - Plan approval
+  - Plan implementation
+  - Training and education
+- Approval and implementation
+  It's time to gain top-level management endorsement of the plan.
