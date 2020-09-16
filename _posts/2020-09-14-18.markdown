@@ -29,6 +29,8 @@ background: '/img/posts/01.jpg'
 ![绿盟数据安全解决方案](/img/posts/lvmeng.png "绿盟数据安全解决方案"){:height="100%" width="100%"}
 ![闪捷数据安全解决方案](/img/posts/shanjie.png "闪捷数据安全解决方案"){:height="100%" width="100%"}
 
+那么，上一篇博文中的问题如何解答？可以从数据的授权采集；合规分级分类与脱敏加密；存储数据库审计、数据库防火墙、加密脱敏数据、容灾备份和文件DLP；人员授权访问与应用授权管理；最后外部共享的考虑：合作伙伴的授权管理和API安全。另外，数据监控、溯源与态势分析是整体过程的保障。
+
 持续更新ing......
 
 **参考**
@@ -36,6 +38,7 @@ background: '/img/posts/01.jpg'
 2. [安华金和.](https://www.dbsec.cn/resource/detail/79.html)
 3. [腾讯安全](https://segmentfault.com/a/1190000022968431)
 4. [建设银行](https://yun.ccb.com/solution/detail/dataSolution.html)
+5. [数据泄露](https://www.tmtpost.com/4512378.html)
 
 
 
