@@ -8,7 +8,7 @@ CISSP2021五月份使用新的考纲，其中紧跟新技术大趋势，多了�
 
 **Domain 4**
 
-1. 虚拟可扩展局域网VXLAN
+1.虚拟可扩展局域网VXLAN
 
 [https://zhuanlan.zhihu.com/p/130277008](https://zhuanlan.zhihu.com/p/130277008)
 
@@ -20,13 +20,13 @@ CISSP2021五月份使用新的考纲，其中紧跟新技术大趋势，多了�
 
 VXLAN 不仅支持一对一，也支持一对多，一个 VXLAN 设备能通过像网桥一样的学习方式学习到其他对端的 IP 地址，还可以直接配置静态转发表。”
 
-2. 软件定义广域网SD-WAN
+2.软件定义广域网SD-WAN
 
 [https://zhuanlan.zhihu.com/p/142324580](https://zhuanlan.zhihu.com/p/142324580)
 
 SD-WAN(软件定义广域网)产品，是利用SDN(软件定义网络)的技术，通过将网络硬件与其控制平面分离，简化WAN的部署与管理，同时结合了广域网优化、基于应用的智能选路、私有的安全加密隧道、端到端的QoS和全球骨干网等技术，为企业构建高速安全、稳定可靠的广域网，同时大幅降低部署和运维成本，并可基于业务视角来快速构建企业网络。
 
-3. Li-Fi光照上网技术
+3.Li-Fi光照上网技术
 
 [Li-Fi](https://zh.wikipedia.org/wiki/%E5%85%89%E7%85%A7%E4%B8%8A%E7%BD%91%E6%8A%80%E6%9C%AF)
 
@@ -37,7 +37,7 @@ SD-WAN(软件定义广域网)产品，是利用SDN(软件定义网络)的技术�
 
 它具有高带宽（其带宽是WIFI的1万倍）、高安全性（室内电脑、移动终端信息不会泄露到室外）、节能等特点。尽管Li-Fi灯泡必须保持打开状态才能传输数据，但是灯泡可以调暗至人眼看不到的程度，却仍然能够运行。
 
-4. Zigbee
+4.Zigbee
 
 [https://zhuanlan.zhihu.com/p/108050248](https://zhuanlan.zhihu.com/p/108050248)
 
@@ -49,7 +49,7 @@ ZigBee技术是一种近距离、低复杂度、低功耗、低数据速率、�
 
 ZigBee是基于IEEE802.15.4协议发展起来的一种短距离无线通信技术，功耗低，被业界认为是最有可能应用在工控场合的无线方式。它是一个由可多到65000个无线数传模块组成的一个无线数传网络平台，在整个网络范围内，每一个ZigBee网络数传模块之间可以相互通信，每个网络节点间的距离可以从标准的75m无限扩展。可工作在2.4GHz(全球流行)、868MHz（欧洲流行)和915 MHz（美国流行)3个频段上，分别具有最高250kbit/s、20kbit/s和40kbit/s的传输速率，它的传输距离在10-75m的范围内，但可以继续增加。
 
-5. CDN
+5.CDN
 
 [https://zhuanlan.zhihu.com/p/28940451](https://zhuanlan.zhihu.com/p/28940451)
 
@@ -61,7 +61,7 @@ CDN就是扮演者护航者和加速者的角色，更快准狠的触发信息�
 
 CDN是一个经策略性部署的整体系统，包括分布式存储、负载均衡、网络请求的重定向和内容管理4个要件，而内容管理和全局的网络流量管理(Traffic Management)是CDN的核心所在。
 
-6. 5G
+6.5G
 
 [https://zhuanlan.zhihu.com/p/41182443](https://zhuanlan.zhihu.com/p/41182443)
 
@@ -71,7 +71,7 @@ CDN是一个经策略性部署的整体系统，包括分布式存储、负载�
 
 **Domain 5**
 
-1. Just-in-Time JIT
+1.Just-in-Time JIT
 
 [JIT](https://www.cyberark.com/what-is/just-in-time-access/)
 
@@ -83,14 +83,14 @@ Domain 5是身份识别访问管理，自然应该和access相关
 In recent years, cybersecurity has adopted its own form of just-in-time called just-in-time access. Like its manufacturing namesake, just-in-time (JIT) access is geared towards removing waste, which is, in this case, unneeded access. This method of securing critical data and resources is implemented with the idea of providing the right person with the right access to the right resource at (and for) the right time for the right reasons — or, in other words, elevating privileges only when and where they’re required. Providing an audit trail of activities is essential for JIT, or else there becomes a trade-off between security and ease-of-use. Both are critical.
 The use of just-in-time access to enforce the principle of least privilege is an important part of Zero Trust.
 
-2. Risk based access control
+2.Risk based access control
 
 [RBAC](http://ir.nsfc.gov.cn/paperDownload/1000013935977.pdf)
 
 
 **Domain 7**
 
-1. UEBA 
+1.UEBA 
 
 [UBA](https://www.rapid7.com/fundamentals/user-behavior-analytics/)
 
@@ -98,7 +98,7 @@ The use of just-in-time access to enforce the principle of least privilege is an
 
 这个其实蛮好理解，全称是：User and entity behavior analytics。
 
-2. Machine learning and Artificial Intelligence (AI) based tools 
+2.Machine learning and Artificial Intelligence (AI) based tools 
 
 [artificial-intelligence-platforms](https://www.predictiveanalyticstoday.com/artificial-intelligence-platforms/)
 
@@ -106,17 +106,17 @@ The use of just-in-time access to enforce the principle of least privilege is an
 
 **Domain 8**
 
-1. SAMM 
+1.SAMM 
 
 [4.OWASPSAMMv2.0](http://www.owasp.org.cn/OWASP_Events/4.OWASPSAMMv2.0.pdf)
 
 [软件保证成熟度模型(Alpha)](https://owasp.org/www-pdf-archive/%E8%BD%AF%E4%BB%B6%E4%BF%9D%E8%AF%81%E6%88%90%E7%86%9F%E5%BA%A6%E6%A8%A1%E5%9E%8B(Alpha).pdf)
 
-2. IPT
+2.IPT
 
 [IPT](https://www.sohu.com/a/199915427_773307)
 
-3. CI/CD
+3.CI/CD
 
 [what-is-ci-cd](https://www.redhat.com/zh/topics/devops/what-is-ci-cd)
 
@@ -128,7 +128,7 @@ CI/CD 中的“CD”指的是持续交付和/或持续部署，这些相关概�
 
 持续交付通常是指开发人员对应用的更改会自动进行错误测试并上传到存储库（如 GitHub 或容器注册表），然后由运维团队将其部署到实时生产环境中。这旨在解决开发和运维团队之间可见性及沟通较差的问题。因此，持续交付的目的就是确保尽可能减少部署新代码时所需的工作量。
 
-4. COTS
+4.COTS
 
 [COTS](http://blog.sina.com.cn/s/blog_6c09e52c010199d9.html)
 
