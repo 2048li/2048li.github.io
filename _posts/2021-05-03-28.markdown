@@ -1,0 +1,93 @@
+---
+layout: post
+title:  "2021 CISSP新增知识点总结ING"
+date:   2021-05-03 16:00
+background: '/img/posts/01.jpg'
+---
+CISSP2021五月份使用新的考纲，其中紧跟新技术大趋势，多了不少新概念，在此总结一二。
+
+Domain 4
+1. 虚拟可扩展局域网VXLAN
+https://zhuanlan.zhihu.com/p/130277008
+“VXLAN（Virtual eXtensible Local Area Network，虚拟可扩展局域网），是一种虚拟化隧道通信技术。它是一种 Overlay（覆盖网络）技术，通过三层的网络来搭建虚拟的二层网络。
+简单来讲，VXLAN 是在底层物理网络（underlay）之上使用隧道技术，借助 UDP 层构建的 Overlay 的逻辑网络，使逻辑网络与物理网络解耦，实现灵活的组网需求。它对原有的网络架构几乎没有影响，不需要对原网络做任何改动，即可架设一层新的网络。也正是因为这个特性，很多 CNI 插件（Kubernetes 集群中的容器网络接口，这个大家应该都知道了吧，如果你不知道，现在你知道了）才会选择 VXLAN 作为通信网络。
+
+VXLAN 不仅支持一对一，也支持一对多，一个 VXLAN 设备能通过像网桥一样的学习方式学习到其他对端的 IP 地址，还可以直接配置静态转发表。”
+
+2. 软件定义广域网SD-WAN
+https://zhuanlan.zhihu.com/p/142324580
+SD-WAN(软件定义广域网)产品，是利用SDN(软件定义网络)的技术，通过将网络硬件与其控制平面分离，简化WAN的部署与管理，同时结合了广域网优化、基于应用的智能选路、私有的安全加密隧道、端到端的QoS和全球骨干网等技术，为企业构建高速安全、稳定可靠的广域网，同时大幅降低部署和运维成本，并可基于业务视角来快速构建企业网络。
+
+3. Li-Fi光照上网技术
+https://zh.wikipedia.org/wiki/%E5%85%89%E7%85%A7%E4%B8%8A%E7%BD%91%E6%8A%80%E6%9C%AF
+光照上网技术（又称灯光上网技术，英语：Li-Fi，英文全称：Light Fidelity），是利用可见光通讯技术（VLC）来实现互联网的信息传输。通俗地说，光照上网技术就是以各种可见光源作为信号发射源，通过控制器控制灯光的通断，从而控制光源和终端接收器之间的通讯。它具有高带宽（其带宽是WIFI的1万倍）、高安全性（室内电脑、移动终端信息不会泄露到室外）、节能等特点。尽管Li-Fi灯泡必须保持打开状态才能传输数据，但是灯泡可以调暗至人眼看不到的程度，却仍然能够运行。
+
+4. Zigbee
+https://zhuanlan.zhihu.com/p/108050248
+作为除了wifi、蓝牙之外，ZigBee是目前最重要的无线通信协议之一，主要应用于物联网和智能硬件等领域。
+ZigBee技术是一种近距离、低复杂度、低功耗、低数据速率、低成本的双向无线通信技术。主要适合于自动控制和远程控制领域，可以嵌入各种设备中，同时支持地理定位功能。由于蜜蜂（bee）是靠飞翔和“嗡嗡”（zig）地抖动翅膀的“舞蹈”来与同伴传递花粉所在方位和远近信息的，也就是所蜜蜂依靠着这样的方式构成了群体中的通信“网络”，因此ZigBee的发明者们形象地利用蜜蜂的这种行为来形象地描述这种无线信息传输技术。
+ZigBee是基于IEEE802.15.4协议发展起来的一种短距离无线通信技术，功耗低，被业界认为是最有可能应用在工控场合的无线方式。它是一个由可多到65000个无线数传模块组成的一个无线数传网络平台，在整个网络范围内，每一个ZigBee网络数传模块之间可以相互通信，每个网络节点间的距离可以从标准的75m无限扩展。
+ZigBee是一种无线连接，可工作在2.4GHz(全球流行)、868MHz（欧洲流行)和915 MHz（美国流行)3个频段上，分别具有最高250kbit/s、20kbit/s和40kbit/s的传输速率，它的传输距离在10-75m的范围内，但可以继续增加。
+
+5. CDN
+https://zhuanlan.zhihu.com/p/28940451
+超过该时间的时延会使用户失去等待意愿。 控制时延无疑是现代信息科技的重要指标，CDN的意图就是尽可能的减少资源在转发、传输、链路抖动等情况下顺利保障信息的连贯性。
+
+充当快递员的角色，将数据包裹，从一个服务器快递到另一个服务器
+CDN就是扮演者护航者和加速者的角色，更快准狠的触发信息和触达每一个用户，带来更为极致的使用体验。
+CDN是一个经策略性部署的整体系统，包括分布式存储、负载均衡、网络请求的重定向和内容管理4个要件，而内容管理和全局的网络流量管理(Traffic Management)是CDN的核心所在。
+
+6. 5G
+https://zhuanlan.zhihu.com/p/41182443
+5G就是第五代通信技术，主要特点是波长为毫米级，超宽带，超高速度，超低延时。
+1G实现了模拟语音通信，大哥大没有屏幕只能打电话；2G实现了语音通信数字化，功能机有了小屏幕可以发短信了；3G实现了语音以外图片等的多媒体通信，屏幕变大可以看图片了；4G实现了局域高速上网，大屏智能机可以看短视频了，但在城市信号好，老家信号差。1G~4G都是着眼于人与人之间更方便快捷的通信，而5G将实现随时、随地、万物互联，让人类敢于期待与地球上的万物通过直播的方式无时差同步参与其中。
+
+Domain 5
+1. Just-in-Time JIT
+https://www.cyberark.com/what-is/just-in-time-access/
+https://www.cyberark.com/resources/blog/just-in-time-access-right-access-right-resources-right-reasons
+
+这里的just in time应该是指just in time access，既不是生产上的准时生产概念，也不是编译原理中的及时编译概念。
+Domain 5是身份识别访问管理，自然应该和access相关
+
+In recent years, cybersecurity has adopted its own form of just-in-time called just-in-time access. Like its manufacturing namesake, just-in-time (JIT) access is geared towards removing waste, which is, in this case, unneeded access. This method of securing critical data and resources is implemented with the idea of providing the right person with the right access to the right resource at (and for) the right time for the right reasons — or, in other words, elevating privileges only when and where they’re required. Providing an audit trail of activities is essential for JIT, or else there becomes a trade-off between security and ease-of-use. Both are critical.
+The use of just-in-time access to enforce the principle of least privilege is an important part of Zero Trust.
+
+2. Risk based access control
+http://ir.nsfc.gov.cn/paperDownload/1000013935977.pdf
+
+
+Domain 7
+1. UEBA 
+https://www.rapid7.com/fundamentals/user-behavior-analytics/
+https://digitalguardian.com/blog/what-user-and-entity-behavior-analytics-definition-ueba-benefits-how-it-works-and-more
+这个其实蛮好理解，全称是：User and entity behavior analytics。
+
+2. Machine learning and Artificial Intelligence (AI) based tools 
+https://www.predictiveanalyticstoday.com/artificial-intelligence-platforms/
+https://translate.google.com/translate?hl=zh-CN&sl=zh-TW&u=https://chih-sheng-huang821.medium.com/%25E4%25BB%2580%25E9%25BA%25BC%25E6%2598%25AF%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E6%2585%25A7-%25E6%25A9%259F%25E5%2599%25A8%25E5%25AD%25B8%25E7%25BF%2592%25E5%2592%258C%25E6%25B7%25B1%25E5%25BA%25A6%25E5%25AD%25B8%25E7%25BF%2592-587e6a0dc72a&prev=search&pto=aue
+
+Domain 8
+1. SAMM 
+http://www.owasp.org.cn/OWASP_Events/4.OWASPSAMMv2.0.pdf
+https://owasp.org/www-pdf-archive/%E8%BD%AF%E4%BB%B6%E4%BF%9D%E8%AF%81%E6%88%90%E7%86%9F%E5%BA%A6%E6%A8%A1%E5%9E%8B(Alpha).pdf
+
+2. IPT
+https://www.sohu.com/a/199915427_773307
+
+3. CI/CD
+https://www.redhat.com/zh/topics/devops/what-is-ci-cd
+CI/CD 是一种通过在应用开发阶段引入自动化来频繁向客户交付应用的方法。CI/CD 的核心概念是持续集成、持续交付和持续部署。
+CI/CD 中的“CI”始终指持续集成，它属于开发人员的自动化流程。成功的 CI 意味着应用代码的新更改会定期构建、测试并合并到共享存储库中。该解决方案可以解决在一次开发中有太多应用分支，从而导致相互冲突的问题。
+
+CI/CD 中的“CD”指的是持续交付和/或持续部署，这些相关概念有时会交叉使用。两者都事关管道后续阶段的自动化，但它们有时也会单独使用，用于说明自动化程度。
+
+持续交付通常是指开发人员对应用的更改会自动进行错误测试并上传到存储库（如 GitHub 或容器注册表），然后由运维团队将其部署到实时生产环境中。这旨在解决开发和运维团队之间可见性及沟通较差的问题。因此，持续交付的目的就是确保尽可能减少部署新代码时所需的工作量。
+
+4. COTS
+
+http://blog.sina.com.cn/s/blog_6c09e52c010199d9.html
+
+COTS是commercial off-the-shelf的缩写，意为商品化的产品和技术。意指将商品化的产品或技术拿来直接使用，在系统集成领域，COTS指的是商业成熟软件。当前对于应用在某一特定环境的系统，人们已很少像过去那样开发研制专用的软硬件设备，而是利用市场上的各类产品和技术(COTS)去集成所需的系统。毫无疑问，与开发专用系统相比，采用COTS组件的系统集成是既省力又省钱的方法，这对于批量少、专用于某一场合的系统来说尤为如此。
+
+持续更新ing...
