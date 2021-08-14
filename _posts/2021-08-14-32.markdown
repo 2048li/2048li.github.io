@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "合规新政策：数据安全法，个保法"
-date:   2021-08-04 19:39
+date:   2021-08-14 19:39
 background: '/img/posts/01.jpg'
 ---
 
