@@ -5,7 +5,7 @@ date:   2022-05-16 17:20
 background: '/img/posts/01.jpg'
 ---
 
-那天在看文章的时候注意到这个__Fortinet security fabric__安全架构，当时简单搜了下，大为震惊，特来详细学习学习。
+那天在看文章的时候注意到这个**Fortinet Security Fabric**安全架构，当时简单搜了下，大为震惊，特来详细学习学习。
 
 该安全架构是Fortinet公司提出的。先来简单了解下该公司：
 
