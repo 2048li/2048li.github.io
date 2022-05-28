@@ -17,13 +17,10 @@ background: '/img/posts/01.jpg'
 
 随着物联网、远程办公等的发展，网络边界已经被无限扩大，企业安全工作也越来越难。这个架构由FortiOS支持，具有丰富的开放式生态系统。"覆盖了更广阔的的数字化攻击表面和周期，提供自我修复的安全性和网络连接，从而保护设备、数据和应用程序。"
 
-该Fabric生态系统主要由fabric connectors, fabric api, fabric devops, 扩展的security fabric生态组成。
+该Fabric生态系统主要由fabric connectors, fabric api, fabric devops, 扩展的security fabric生态组成。<br/>
+![Fabric生态系统](/img/posts/fabric.png "Fabric生态系统")
 
-<img src="/img/posts/fabric.png" style="zoom=70%" alt="Fabric生态系统" align=center />
-
-1. Fabric连接器：其实是可与第三方平台结合的自动安全运营和策略设置平台，支持Devops流程，从IOT到整个云层面保护。这就使得Fortinet产品有了兼容性。
-
-![Fabric连接器](/img/posts/fabric-3.png#pic_center)
+1. Fabric连接器：其实是可与第三方平台结合的自动安全运营和策略设置平台，支持Devops流程，从IOT到整个云层面保护。这就使得Fortinet产品有了兼容性。<br/>![Fabric连接器](/img/posts/fabric-3.png#pic_center)
 
 2. Fabric API：开发的端到端的安全和可视化解决方案。
 ![Fabric API](/img/posts/fabric-4.png#pic_center)
