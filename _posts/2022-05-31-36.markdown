@@ -6,7 +6,7 @@ background: '/img/posts/01.jpg'
 ---
 随着技术的发展，各大公司纷纷上云。云，成为新的端点防御侧。而且近几年疫情环境，各大企业纷纷启动远程办公，端点安全越来越重要。
 
-端点检测与响应Endpoint Detection & Response--EDR提出来已经很久了。自2013年至今不断发展：
+端点检测与响应Endpoint Detection \& Response--EDR提出来已经很久了。自2013年至今不断发展：
 
 第一代：传统防病毒AV，通过匹配已知病毒库、特征库来查杀病毒；
 
