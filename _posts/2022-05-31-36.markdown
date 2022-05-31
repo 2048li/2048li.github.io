@@ -20,20 +20,19 @@ background: '/img/posts/01.jpg'
 
 EDR会将端点数据和来自威胁情报服务的数据实时关联，查找两种迹象：感染迹象（潜在攻击或违规行为一致的操作或事件）和攻击迹象（与已知网络威胁或网络犯罪份子相关的行动或事件），而威胁情报服务提供最新网络威胁的持续更新信息。EDR分析和算法还可自动执行侦查，将实时数据与已建立的基线比较，确定可疑的活动、异常的活动等，然后交给安全分析师分析这些重要事件。EDR与SIEM集成中，SIEM数据通过附加上下文丰富EDR分析，更方便地识别威胁、划分威胁优先级、调查并修复威胁。
 
-EDR通过自动化技术引入“响应“机制，自动执行威胁调查和补救活动。与SOAR系统集成在一起，来自动执行涉及其他安全工具的安全响应运行手册。整个自动化流程有助于安全团队快速响应事件和威胁，最大限度减小企业遭受的损害。
+EDR通过自动化技术引入响应机制，自动执行威胁调查和补救活动。与SOAR系统集成在一起，来自动执行涉及其他安全工具的安全响应运行手册。整个自动化流程有助于安全团队快速响应事件和威胁，最大限度减小企业遭受的损害。
 
-当前的EDR产品还是以国外的为主：[Crowdstrike](https://www.crowdstrike.com/products/endpoint-security/falcon-insight-edr/)，[Microsoft](https://www.microsoft.com/zh-cn/security/business/threat-protection/endpoint-defender),[Fortinet](https://www.fortinet.com/cn/products/endpoint-security/fortiedr)，[IBM](https://www.ibm.com/products/reaqta?mhsrc=ibmsearch_a&mhq=)等等，具体可参见下图：Forrester 2022 Endpoint detection and response providers。
+当前的EDR产品还是以国外的为主：[Crowdstrike](https://www.crowdstrike.com/products/endpoint-security/falcon-insight-edr/)，[Microsoft](https://www.microsoft.com/zh-cn/security/business/threat-protection/endpoint-defender)，[Fortinet](https://www.fortinet.com/cn/products/endpoint-security/fortiedr)，[IBM](https://www.ibm.com/products/reaqta?mhsrc=ibmsearch_a&mhq=)等等，具体可参见下图：Forrester 2022 Endpoint detection and response providers。
 
 ![Forrester 2022 Endpoint detection and response providers](/img/posts/edr.png)
 
-国内有[奇安信](https://www.qianxin.com/product/detail/pid/438)，[深信服](https://www.sangfor.com.cn/product-and-solution/sangfor-security/edr),[绿盟](https://www.nsfocus.com.cn/html/2019/207_1230/89.html)等等
+国内有[奇安信](https://www.qianxin.com/product/detail/pid/438)，[深信服](https://www.sangfor.com.cn/product-and-solution/sangfor-security/edr)，[绿盟](https://www.nsfocus.com.cn/html/2019/207_1230/89.html)等等。
 
 EDR的后续发展——XDR随着2019年被提起讨论，话题升温。前面提到这是一个综合体，囊括的功能不少至少包括电子邮件安全产品/服务，技术含量也自然不少：文件引爆如沙箱、威胁情报和分析、安全编排、自动化响应等等，对应的核心能力其实是大数据技术和多种检测技术。XDR与SIEM的主要区别是部署以及目的：XDR自带统一界面来集成相关的安全产品，且更多关注威胁检测和响应；SIEM则需要单点产品与其定制对接，更多关注在报警的集中处理和存储方面。
 
 
 参考：
-
-1. [端点检测与响应EDR技术发展研究及政策建议](<https://www.secrss.com/articles/32262>)
-2. [EDR(端点检测和响应)](<https://www.ibm.com/cn-zh/topics/edr>)
+1. [端点检测与响应EDR技术发展研究及政策建议](https://www.secrss.com/articles/32262)
+2. [EDR(端点检测和响应)](https://www.ibm.com/cn-zh/topics/edr)
 3. [forrester-wave-endpoint-detection-and-response-providers-q2-2022](https://businessresources.bitdefender.com/forrester-wave-endpoint-detection-and-response-providers-q2-2022)
 4. [XDR是安全运营的最佳解决方案吗？](https://www.secrss.com/articles/26235)
