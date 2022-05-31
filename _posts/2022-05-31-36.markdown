@@ -6,17 +6,17 @@ background: '/img/posts/01.jpg'
 ---
 随着技术的发展，各大公司纷纷上云。云，成为新的端点防御侧。而且近几年疫情环境，各大企业纷纷启动远程办公，端点安全越来越重要。
 
-端点检测与响应Endpoint Detection \& Response--EDR提出来已经很久了。自2013年至今不断发展：
+端点检测与响应Endpoint Detection Response(EDR)提出来已经很久了。自2013年至今不断发展：
 
 第一代：传统防病毒AV，通过匹配已知病毒库、特征库来查杀病毒；
 
 第二代：端点保护平台EPP，保护端点设备的安全：防病毒、防间谍软件、防网络攻击、防网络钓鱼、防火墙，防未经授权的访问等，还有数据防丢失，数据加密功能；
 
-第三代：EDR，依赖云端精准的威胁情报信息和本地强大的数据分析、AI、监测分析技术，形成云端情报-本地大数据分析与监测-终端防护体系，并形成立体的自动防御能力；
+第三代：EDR，依赖云端精准的威胁情报信息和本地强大的数据分析、AI、监测分析技术，形成云端情报\-本地大数据分析与监测\-终端防护体系，并形成立体的自动防御能力；
 
 第四代：XDR，扩展监测和响应。将多个安全产品统一到一个安全运营系统中。
 
-现在企业终端分布式发展，类型越来越多，这就对EDR提出越来越高的要求，促使EDR与SIEM（安全事件和信息管理）、SOAR（安全编排与自动化响应）、态势感知类等产品进行协同，共同为云-网-端纵深防御体系提供支撑。
+现在企业终端分布式发展，类型越来越多，这就对EDR提出越来越高的要求，促使EDR与SIEM（安全事件和信息管理）、SOAR（安全编排与自动化响应）、态势感知类等产品进行协同，共同为**云\-网\-端**纵深防御体系提供支撑。
 
 EDR会将端点数据和来自威胁情报服务的数据实时关联，查找两种迹象：感染迹象（潜在攻击或违规行为一致的操作或事件）和攻击迹象（与已知网络威胁或网络犯罪份子相关的行动或事件），而威胁情报服务提供最新网络威胁的持续更新信息。EDR分析和算法还可自动执行侦查，将实时数据与已建立的基线比较，确定可疑的活动、异常的活动等，然后交给安全分析师分析这些重要事件。EDR与SIEM集成中，SIEM数据通过附加上下文丰富EDR分析，更方便地识别威胁、划分威胁优先级、调查并修复威胁。
 
@@ -24,7 +24,7 @@ EDR通过自动化技术引入响应机制，自动执行威胁调查和补救�
 
 当前的EDR产品还是以国外的为主：[Crowdstrike](https://www.crowdstrike.com/products/endpoint-security/falcon-insight-edr/)，[Microsoft](https://www.microsoft.com/zh-cn/security/business/threat-protection/endpoint-defender)，[Fortinet](https://www.fortinet.com/cn/products/endpoint-security/fortiedr)，[IBM](https://www.ibm.com/products/reaqta?mhsrc=ibmsearch_a&mhq=)等等，具体可参见下图：[Forrester 2022 Endpoint detection and response providers](https://businessresources.bitdefender.com/forrester-wave-endpoint-detection-and-response-providers-q2-2022)。
 
-![Forrester 2022 Endpoint detection and response providers](/img/posts/edr.png)
+![Forrester 2022 edr providers](/img/posts/edr.png)
 
 国内有[奇安信](https://www.qianxin.com/product/detail/pid/438)，[深信服](https://www.sangfor.com.cn/product-and-solution/sangfor-security/edr)，[绿盟](https://www.nsfocus.com.cn/html/2019/207_1230/89.html)等等。
 
