@@ -27,6 +27,8 @@ EDR通过自动化技术引入响应机制，自动执行威胁调查和补救�
 
 ![Forrester 2022 edr providers](/img/posts/edr.png#pic_center)
 
+国内主要有[奇安信](https://www.qianxin.com/product/detail/pid/438)，[深信服](https://www.sangfor.com.cn/product-and-solution/sangfor-security/edr)，华为](https://e.huawei.com/cn/solutions/business-needs/security)，[绿盟](https://www.nsfocus.com.cn/html/2019/207_1230/89.html)等等。
+
 EDR的后续发展XDR，随着2019年被提起讨论，话题升温。前面提到这是一个综合体，囊括的功能不少至少包括电子邮件安全产品或者服务，技术含量也自然不少：文件引爆如沙箱、威胁情报和分析、安全编排、自动化响应等等，对应的核心能力其实是大数据技术和多种检测技术。XDR与SIEM的主要区别是部署以及目的：XDR自带统一界面来集成相关的安全产品，且更多关注威胁检测和响应；SIEM则需要单点产品与其定制对接，更多关注在报警的集中处理和存储方面。
 
 
