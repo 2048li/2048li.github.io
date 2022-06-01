@@ -23,12 +23,6 @@ EDR会将端点数据和来自威胁情报服务的数据实时关联，查找�
 
 EDR通过自动化技术引入响应机制，自动执行威胁调查和补救活动。与SOAR系统集成在一起，来自动执行涉及其他安全工具的安全响应运行手册。整个自动化流程有助于安全团队快速响应事件和威胁，最大限度减小企业遭受的损害。
 
-当前的EDR产品还是以国外的为主：[Crowdstrike](https://www.crowdstrike.com/products/endpoint-security/falcon-insight-edr/)，[Microsoft](https://www.microsoft.com/zh-cn/security/business/threat-protection/endpoint-defender)，[Fortinet](https://www.fortinet.com/cn/products/endpoint-security/fortiedr)，[IBM](https://www.ibm.com/products/reaqta?mhsrc=ibmsearch_a&mhq=)等等，具体可参见下图：[Forrester 2022 Endpoint detection and response providers](https://businessresources.bitdefender.com/forrester-wave-endpoint-detection-and-response-providers-q2-2022)。
-
-![Forrester 2022 edr providers](/img/posts/edr.png#pic_center)
-
-国内有[奇安信](https://www.qianxin.com/product/detail/pid/438)，[深信服](https://www.sangfor.com.cn/product-and-solution/sangfor-security/edr)，[绿盟](https://www.nsfocus.com.cn/html/2019/207_1230/89.html)等等。
-
 EDR的后续发展XDR，随着2019年被提起讨论，话题升温。前面提到这是一个综合体，囊括的功能不少至少包括电子邮件安全产品或者服务，技术含量也自然不少：文件引爆如沙箱、威胁情报和分析、安全编排、自动化响应等等，对应的核心能力其实是大数据技术和多种检测技术。XDR与SIEM的主要区别是部署以及目的：XDR自带统一界面来集成相关的安全产品，且更多关注威胁检测和响应；SIEM则需要单点产品与其定制对接，更多关注在报警的集中处理和存储方面。
 
 
